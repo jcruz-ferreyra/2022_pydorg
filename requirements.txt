@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+pyinputplus==0.2.12
+pysimplevalidate==0.2.12
+send2trash==1.8.0
+stdiomask==0.0.6
